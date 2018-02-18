@@ -1,6 +1,6 @@
 # Compression-Algo-Python
 
-The	sum	total	of	this	semester’s	assignments	will	be	code	for	a	lossless	data	
+The	project	will	be	code	for	a	lossless	data	
 compressor.	The	complete	data	compressor	will	combine	three	distinct	processing	
 original phases.	This	assignment	tackles	the	first	phase.	
 In	a	nutshell,	data	compression	algorithms	attempt	to	exploit	data	redundancy	
